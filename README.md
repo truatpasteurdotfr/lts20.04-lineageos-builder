@@ -1,3 +1,5 @@
+[![Docker](https://github.com/truatpasteurdotfr/lts20.04-lineageos-builder/actions/workflows/main.yml/badge.svg)](https://github.com/truatpasteurdotfr/lts20.04-lineageos-builder/actions/workflows/main.yml)
+
 # builder with tools listed to self build a lineageos version
 
 ## Why ?
