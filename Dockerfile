@@ -5,7 +5,7 @@ MAINTAINER Tru Huynh <tru@pasteur.fr>
 # https://wiki.lineageos.org/devices/bacon/build and
 # https://wiki.lineageos.org/extracting_blobs_from_zips (python+brotli)
 RUN 	apt-get update && \
-        apt-get -y install \
+        DEBIAN_FRONTEND=noninteractive apt-get -y install \
 		bash \
 		bc \
 		bison \
